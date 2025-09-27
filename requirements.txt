@@ -1,4 +1,6 @@
-requests
-matplotlib
-pygithub
+numpy
 pandas
+requests
+pygithub
+matplotlib
+python-dotenv
